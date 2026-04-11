@@ -1,4 +1,4 @@
-# 👋 Ricardo Melo
+# 👋 Ricardo Alves de Melo
 
 QA Sênior com mais de 15 anos de experiência em Software Quality Assurance, atuando em testes ponta a ponta (E2E) em aplicações web e mobile.  
 Foco em estratégia de testes baseada em risco, validação de APIs, análise de dados (SQL) e qualidade orientada ao negócio.  
