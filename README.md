@@ -30,7 +30,7 @@ Perfil analítico, com forte capacidade de transitar entre negócio e tecnologia
 ### 🧪 Testes & Automação
 ![Cypress](https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress)
 ![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright)
-![CodeCeptsJS](https://img.shields.io/badge/slack-@codeceptjs-purple.svg?logo=slack)
+![CodeceptsJS](https://img.shields.io/badge/CodeceptJS-F6E05E.svg?style=for-the-badge&logo=CodeceptJS&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/Cucumber-000?style=for-the-badge&logo=cucumber)
 ![Maestro](https://img.shields.io/badge/Maestro-000?style=for-the-badge)
 ![k6](https://img.shields.io/badge/k6-000?style=for-the-badge&logo=k6)
