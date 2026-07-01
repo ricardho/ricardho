@@ -1,7 +1,7 @@
 # Ricardo Alves de Melo
 
 <h3 align="center">
-Senior Quality Engineer | Test Strategy | APIs | SQL | Cypress | Playwright | AI-Assisted Testing | Quality Engineering
+Senior QA | Test Strategy | APIs | SQL | Cypress | Playwright | AI-Assisted Testing | Quality Engineering
 </h3>
 
 ---
