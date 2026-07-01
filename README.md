@@ -1,6 +1,6 @@
-# 👋 Ricardo Alves de Melo
+# Ricardo Alves de Melo
 
-QA Sênior com mais de 15 anos de experiência em Software Quality Assurance, atuando em testes ponta a ponta (E2E) em aplicações web e mobile.  
+QA Sênior com mais de 15 anos de experiência em Software Quality Assurance, atuando em testes ponta a ponta (E2E) em aplicações web, api e mobile.  
 Foco em estratégia de testes baseada em risco, validação de APIs, análise de dados (SQL) e qualidade orientada ao negócio.  
 
 Atuação em ambientes ágeis (XP, Scrum/Kanban), contribuindo na definição de requisitos, cenários e prevenção de falhas desde a origem.  
@@ -10,7 +10,7 @@ Perfil analítico, com forte capacidade de transitar entre negócio e tecnologia
 
 ## 🚀 Objetivo (curto prazo)
 
-- Evoluir em **automação de testes (Web, APIs e Mobile)**  
+- Me manter atualizado em melhores práticas em **automação de testes (Web, APIs e Mobile)**  
 - Aprofundar em **Quality Engineering e CI/CD**  
 - Expandir atuação em **testes não funcionais (performance com k6)**  
 - Atuar em projetos com foco em **escala, integração e confiabilidade**
@@ -30,6 +30,7 @@ Perfil analítico, com forte capacidade de transitar entre negócio e tecnologia
 ### 🧪 Testes & Automação
 ![Cypress](https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress)
 ![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright)
+![CodeCeptsJS](https://img.shields.io/badge/slack-@codeceptjs-purple.svg?logo=slack)
 ![Cucumber](https://img.shields.io/badge/Cucumber-000?style=for-the-badge&logo=cucumber)
 ![Maestro](https://img.shields.io/badge/Maestro-000?style=for-the-badge)
 ![k6](https://img.shields.io/badge/k6-000?style=for-the-badge&logo=k6)
