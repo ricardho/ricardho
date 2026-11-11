@@ -1,60 +1,109 @@
+
 # Ricardo Alves de Melo
 
 <h3 align="center">
-Senior QA | Test Strategy | APIs | SQL | Cypress | Playwright | AI-Assisted Testing | Quality Engineering
+Senior QA | Quality Engineering | Test Strategy | iGaming & Sportsbook | APIs | SQL | Playwright | Cypress | AI-Assisted Testing
 </h3>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Profissional com **mais de 19 anos de experiência** em Qualidade de Software, atuando em projetos dos segmentos **Financeiro, Telecomunicações e E-commerce**.
+Profissional com **mais de 19 anos de experiência em Qualidade de Software**, atuando em projetos dos segmentos **Financeiro, Telecomunicações, E-commerce e iGaming (Sportsbook e Cassino)**.
 
-Tenho experiência em todo o ciclo de desenvolvimento de software, desde a análise e refinamento de requisitos até homologação, implantação e acompanhamento pós-produção.
+Tenho experiência em diferentes etapas do ciclo de desenvolvimento de software, desde a análise e o refinamento de requisitos até a homologação, implantação e acompanhamento pós-produção.
 
-Minha atuação é voltada para **Quality Engineering**, estratégia de testes baseada em risco, validação de APIs, análise de dados (SQL), prevenção de defeitos e melhoria contínua dos processos de qualidade.
+Minha atuação combina **Quality Engineering, estratégia de testes baseada em riscos, validação de APIs, análise de dados com SQL, automação de testes e melhoria contínua dos processos de qualidade**.
 
-Nos últimos anos venho expandindo meus conhecimentos em automação utilizando **Cypress**, **Playwright**, **CodeceptJS**, além de Inteligência Artificial aplicada à Engenharia de Qualidade.
+No segmento de **iGaming**, atuo na validação de plataformas de apostas esportivas e cassino, considerando regras de negócio, fluxos transacionais, integridade de dados, comportamento das aplicações e confiabilidade das operações.
+
+Entre os projetos recentes, destaco o desenvolvimento de um **framework de automação utilizando Playwright e TypeScript**, estruturado para gerar aproximadamente **360 mil apostas em uma plataforma de Sportsbook**.
+
+Minha contribuição envolveu a implementação dos scripts, parametrização de dados, construção de fluxos automatizados para diferentes modalidades e combinações de apostas, organização das execuções em lotes e validação dos resultados.
+
+Também atuo na definição de estratégias de regressão, evolução dos processos de testes e planejamento da integração de automações às esteiras de CI/CD.
+
+Paralelamente, venho aprofundando meus conhecimentos em **Inteligência Artificial aplicada à Engenharia de Qualidade**, automação e testes não funcionais.
 
 ---
 
-# 🎯 Especialidades
+## 🎯 Especialidades
 
 - Quality Engineering
-- Estratégia de Testes
-- Testes Funcionais
-- Testes E2E
-- Testes Web
-- Testes Mobile
-- Testes de APIs
-- SQL
-- Shift Left
-- Análise de Requisitos
-- Gestão da Qualidade
-- Análise de Riscos
+- Estratégia e Planejamento de Testes
+- Testes Funcionais e Exploratórios
+- Testes End-to-End (E2E)
+- Testes Web e Mobile
+- Testes de APIs e Integração
+- SQL e Validação de Dados
 - Automação de Testes
+- Testes de Regressão
+- Testes Baseados em Riscos
+- Shift Left Testing
+- Análise e Refinamento de Requisitos
+- Gestão da Qualidade
+- Prevenção e Análise de Defeitos
+- Melhoria Contínua
 - IA aplicada à Qualidade
+
+### 🎮 iGaming | Sportsbook & Casino
+
+- Validação de plataformas de apostas esportivas
+- Testes funcionais em plataformas de cassino
+- Validação de regras de negócio e fluxos de apostas
+- Automação de cenários transacionais
+- Geração automatizada de apostas em larga escala
+- Parametrização e gerenciamento de dados de testes
+- Validação de diferentes modalidades e combinações de apostas
+- Análise de integridade e consistência de dados
+- Estratégias de regressão para plataformas de iGaming
+- Análise de riscos em ambientes transacionais
 
 ---
 
-# 📚 Atualmente estudando
+## 🚀 Projetos Relevantes
 
-- Playwright
+### Framework de Automação — Sportsbook
+
+**Tecnologias:** Playwright | TypeScript
+
+Desenvolvimento de um framework de automação voltado à geração de aproximadamente **360 mil apostas em uma plataforma de Sportsbook**.
+
+**Principais contribuições:**
+
+- Estruturação e implementação do framework de automação.
+- Desenvolvimento de scripts para automatização dos fluxos de apostas.
+- Parametrização de dados para diferentes cenários e modalidades.
+- Automação de apostas simples e múltiplas.
+- Organização e execução dos cenários em lotes.
+- Implementação de validações e tratamento de exceções.
+- Apoio à validação das regras de negócio e dos resultados das operações.
+- Redução da dependência de atividades manuais na geração de dados e execução de cenários.
+- Ampliação da capacidade de execução e repetibilidade dos testes.
+
+**Objetivo:** aumentar a escala das validações automatizadas, apoiar a cobertura de cenários transacionais e contribuir para a confiabilidade da plataforma.
+
+---
+
+## 📚 Atualmente estudando
+
+- Playwright e TypeScript
 - CodeceptJS
 - CI/CD aplicado à Qualidade
 - Testes de Performance com k6
 - MCP (Model Context Protocol)
 - Agentes de IA para QA
-- AI Assisted Testing
+- AI-Assisted Testing
 - Quality Engineering
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 ## 💻 Linguagens
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
@@ -102,6 +151,8 @@ Nos últimos anos venho expandindo meus conhecimentos em automação utilizando 
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray-000000?style=for-the-badge)
+![Zephyr](https://img.shields.io/badge/Zephyr-000000?style=for-the-badge)
+![AIO Test](https://img.shields.io/badge/AIO_Test-000000?style=for-the-badge)
 ![TestLink](https://img.shields.io/badge/TestLink-000000?style=for-the-badge)
 ![Mantis](https://img.shields.io/badge/Mantis-000000?style=for-the-badge)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-000000?style=for-the-badge&logo=browserstack&logoColor=white)
@@ -118,24 +169,23 @@ Nos últimos anos venho expandindo meus conhecimentos em automação utilizando 
 
 ---
 
-# 📖 Compartilho conteúdos sobre
+## 📖 Compartilho conteúdos sobre
 
 - Quality Engineering
+- Estratégia de Testes
 - Automação de Testes
+- Playwright e TypeScript
 - Cypress
-- Playwright
 - CodeceptJS
-- APIs
-- SQL
+- APIs e SQL
 - Engenharia de Software
 - IA aplicada à Qualidade
 - Testes de Performance
 - CI/CD
 - Shift Left
-- Estratégia de Testes
+- Qualidade de Software em iGaming
 
 ---
-
 
 ## 🤝 Vamos nos conectar
 
