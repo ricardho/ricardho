@@ -2,7 +2,7 @@
 # Ricardo Alves de Melo
 
 <h3 align="center">
-Senior QA | Quality Engineering | Test Strategy | iGaming & Sportsbook | APIs | SQL | Playwright | Cypress | AI-Assisted Testing
+Senior QA | Quality Engineering | Test Strategy | iGaming & Sportsbook | APIs | SQL | Playwright | Cypress | Selenium | AI-Assisted Testing
 </h3>
 
 ---
@@ -67,7 +67,7 @@ Paralelamente, venho aprofundando meus conhecimentos em **Inteligência Artifici
 
 **Tecnologias:** Playwright | TypeScript
 
-Desenvolvimento de um framework de automação voltado à geração de aproximadamente **360 mil apostas em uma plataforma de Sportsbook**.
+Desenvolvimento de um framework de automação voltado à geração de aproximadamente **800 mil apostas em uma plataforma de Sportsbook**.
 
 **Principais contribuições:**
 
@@ -112,8 +112,9 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 
 ## 🧪 Test Automation
 
-![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white)
 ![CodeceptJS](https://img.shields.io/badge/CodeceptJS-000000?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-000000?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge)
@@ -176,6 +177,7 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 - Automação de Testes
 - Playwright e TypeScript
 - Cypress
+- Selenium WebDriver
 - CodeceptJS
 - APIs e SQL
 - Engenharia de Software
