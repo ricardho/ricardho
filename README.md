@@ -2,7 +2,7 @@
 # Ricardo Alves de Melo
 
 <h3 align="center">
-Senior QA | Quality Engineering | Test Strategy | iGaming & Sportsbook | APIs | SQL | Playwright | Cypress | Selenium | AI-Assisted Testing
+Senior QA | Quality Engineering | Test Strategy | APIs | SQL | Playwright | Cypress | Selenium | AI-Assisted Testing
 </h3>
 
 ---
