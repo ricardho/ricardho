@@ -185,7 +185,7 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 - Testes de Performance
 - CI/CD
 - Shift Left
-- Qualidade de Software em iGaming
+- Qualidade de Software
 
 ---
 
