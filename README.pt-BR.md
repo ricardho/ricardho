@@ -21,7 +21,7 @@ Minha atuação combina **Quality Engineering, estratégia de testes baseada em 
 
 No segmento de **iGaming**, atuo na validação de plataformas de apostas esportivas e cassino, considerando regras de negócio, fluxos transacionais, integridade de dados, comportamento das aplicações e confiabilidade das operações.
 
-Entre os projetos recentes, destaco o desenvolvimento de um **framework de automação utilizando Playwright e TypeScript**, estruturado para gerar aproximadamente **360 mil apostas em uma plataforma de Sportsbook**.
+Entre os projetos recentes, destaco o desenvolvimento de um **framework de automação utilizando Playwright e TypeScript**, estruturado para gerar aproximadamente **800 mil apostas em uma plataforma de Sportsbook**.
 
 Minha contribuição envolveu a implementação dos scripts, parametrização de dados, construção de fluxos automatizados para diferentes modalidades e combinações de apostas, organização das execuções em lotes e validação dos resultados.
 

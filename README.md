@@ -20,7 +20,7 @@ My work combines **Quality Engineering, risk-based test strategy, API validation
 
 In the **iGaming** industry, I validate sports betting and casino platforms, covering business rules, transactional flows, data integrity, application behavior and the reliability of operations.
 
-Among my recent projects, I highlight the development of an **automation framework using Playwright and TypeScript**, built to generate approximately **360 thousand bets on a Sportsbook platform**.
+Among my recent projects, I highlight the development of an **automation framework using Playwright and TypeScript**, built to generate approximately **800 thousand bets on a Sportsbook platform**.
 
 My contribution included implementing the scripts, parameterizing data, building automated flows for different bet types and combinations, organizing executions in batches and validating the results.
 
