@@ -1,5 +1,8 @@
-
 # Ricardo Alves de Melo
+
+<p align="center">
+<b>English</b> | <a href="https://github.com/ricardho/ricardho/blob/main/README.pt-BR.md">Português</a>
+</p>
 
 <h3 align="center">
 Senior QA | Quality Engineering | Test Strategy | APIs | SQL | Playwright | Cypress | Selenium | AI-Assisted Testing
@@ -7,92 +10,92 @@ Senior QA | Quality Engineering | Test Strategy | APIs | SQL | Playwright | Cypr
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Profissional com **mais de 19 anos de experiência em Qualidade de Software**, atuando em projetos dos segmentos **Financeiro, Telecomunicações, E-commerce e iGaming (Sportsbook e Cassino)**.
+Professional with **over 19 years of experience in Software Quality**, working on projects in the **Financial, Telecommunications, E-commerce and iGaming (Sportsbook and Casino)** industries.
 
-Tenho experiência em diferentes etapas do ciclo de desenvolvimento de software, desde a análise e o refinamento de requisitos até a homologação, implantação e acompanhamento pós-produção.
+I have experience across the different stages of the software development lifecycle, from requirements analysis and refinement to user acceptance testing, deployment and post-production monitoring.
 
-Minha atuação combina **Quality Engineering, estratégia de testes baseada em riscos, validação de APIs, análise de dados com SQL, automação de testes e melhoria contínua dos processos de qualidade**.
+My work combines **Quality Engineering, risk-based test strategy, API validation, data analysis with SQL, test automation and continuous improvement of quality processes**.
 
-No segmento de **iGaming**, atuo na validação de plataformas de apostas esportivas e cassino, considerando regras de negócio, fluxos transacionais, integridade de dados, comportamento das aplicações e confiabilidade das operações.
+In the **iGaming** industry, I validate sports betting and casino platforms, covering business rules, transactional flows, data integrity, application behavior and the reliability of operations.
 
-Entre os projetos recentes, destaco o desenvolvimento de um **framework de automação utilizando Playwright e TypeScript**, estruturado para gerar aproximadamente **360 mil apostas em uma plataforma de Sportsbook**.
+Among my recent projects, I highlight the development of an **automation framework using Playwright and TypeScript**, built to generate approximately **360 thousand bets on a Sportsbook platform**.
 
-Minha contribuição envolveu a implementação dos scripts, parametrização de dados, construção de fluxos automatizados para diferentes modalidades e combinações de apostas, organização das execuções em lotes e validação dos resultados.
+My contribution included implementing the scripts, parameterizing data, building automated flows for different bet types and combinations, organizing executions in batches and validating the results.
 
-Também atuo na definição de estratégias de regressão, evolução dos processos de testes e planejamento da integração de automações às esteiras de CI/CD.
+I also define regression strategies, evolve testing processes and plan the integration of automated tests into CI/CD pipelines.
 
-Paralelamente, venho aprofundando meus conhecimentos em **Inteligência Artificial aplicada à Engenharia de Qualidade**, automação e testes não funcionais.
+In parallel, I have been deepening my knowledge of **Artificial Intelligence applied to Quality Engineering**, automation and non-functional testing.
 
 ---
 
-## 🎯 Especialidades
+## 🎯 Expertise
 
 - Quality Engineering
-- Estratégia e Planejamento de Testes
-- Testes Funcionais e Exploratórios
-- Testes End-to-End (E2E)
-- Testes Web e Mobile
-- Testes de APIs e Integração
-- SQL e Validação de Dados
-- Automação de Testes
-- Testes de Regressão
-- Testes Baseados em Riscos
+- Test Strategy and Planning
+- Functional and Exploratory Testing
+- End-to-End (E2E) Testing
+- Web and Mobile Testing
+- API and Integration Testing
+- SQL and Data Validation
+- Test Automation
+- Regression Testing
+- Risk-Based Testing
 - Shift Left Testing
-- Análise e Refinamento de Requisitos
-- Gestão da Qualidade
-- Prevenção e Análise de Defeitos
-- Melhoria Contínua
-- IA aplicada à Qualidade
+- Requirements Analysis and Refinement
+- Quality Management
+- Defect Prevention and Analysis
+- Continuous Improvement
+- AI applied to Quality
 
 ### 🎮 iGaming | Sportsbook & Casino
 
-- Validação de plataformas de apostas esportivas
-- Testes funcionais em plataformas de cassino
-- Validação de regras de negócio e fluxos de apostas
-- Automação de cenários transacionais
-- Geração automatizada de apostas em larga escala
-- Parametrização e gerenciamento de dados de testes
-- Validação de diferentes modalidades e combinações de apostas
-- Análise de integridade e consistência de dados
-- Estratégias de regressão para plataformas de iGaming
-- Análise de riscos em ambientes transacionais
+- Validation of sports betting platforms
+- Functional testing of casino platforms
+- Validation of business rules and betting flows
+- Automation of transactional scenarios
+- Large-scale automated bet generation
+- Test data parameterization and management
+- Validation of different bet types and combinations
+- Data integrity and consistency analysis
+- Regression strategies for iGaming platforms
+- Risk analysis in transactional environments
 
 ---
 
-## 🚀 Projetos Relevantes
+## 🚀 Featured Projects
 
-### Framework de Automação — Sportsbook
+### Automation Framework — Sportsbook
 
-**Tecnologias:** Playwright | TypeScript
+**Technologies:** Playwright | TypeScript
 
-Desenvolvimento de um framework de automação voltado à geração de aproximadamente **800 mil apostas em uma plataforma de Sportsbook**.
+Development of an automation framework designed to generate approximately **800 thousand bets on a Sportsbook platform**.
 
-**Principais contribuições:**
+**Key contributions:**
 
-- Estruturação e implementação do framework de automação.
-- Desenvolvimento de scripts para automatização dos fluxos de apostas.
-- Parametrização de dados para diferentes cenários e modalidades.
-- Automação de apostas simples e múltiplas.
-- Organização e execução dos cenários em lotes.
-- Implementação de validações e tratamento de exceções.
-- Apoio à validação das regras de negócio e dos resultados das operações.
-- Redução da dependência de atividades manuais na geração de dados e execução de cenários.
-- Ampliação da capacidade de execução e repetibilidade dos testes.
+- Designed and implemented the automation framework.
+- Developed scripts to automate betting flows.
+- Parameterized data for different scenarios and bet types.
+- Automated single and multiple (accumulator) bets.
+- Organized and executed scenarios in batches.
+- Implemented validations and exception handling.
+- Supported the validation of business rules and operation results.
+- Reduced reliance on manual work for data generation and scenario execution.
+- Increased test execution capacity and repeatability.
 
-**Objetivo:** aumentar a escala das validações automatizadas, apoiar a cobertura de cenários transacionais e contribuir para a confiabilidade da plataforma.
+**Goal:** scale up automated validations, support the coverage of transactional scenarios and contribute to the platform's reliability.
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Currently learning
 
-- Playwright e TypeScript
+- Playwright and TypeScript
 - CodeceptJS
-- CI/CD aplicado à Qualidade
-- Testes de Performance com k6
+- CI/CD applied to Quality
+- Performance Testing with k6
 - MCP (Model Context Protocol)
-- Agentes de IA para QA
+- AI Agents for QA
 - AI-Assisted Testing
 - Quality Engineering
 
@@ -100,7 +103,7 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 
 # 🛠️ Tech Stack
 
-## 💻 Linguagens
+## 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -130,7 +133,7 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 
 ---
 
-## 🗄️ Banco de Dados
+## 🗄️ Databases
 
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -147,7 +150,7 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 
 ---
 
-## 📋 Gestão de Qualidade
+## 📋 Quality Management
 
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=white)
@@ -160,7 +163,7 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 
 ---
 
-## 🤖 Inteligência Artificial
+## 🤖 Artificial Intelligence
 
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
@@ -170,26 +173,26 @@ Desenvolvimento de um framework de automação voltado à geração de aproximad
 
 ---
 
-## 📖 Compartilho conteúdos sobre
+## 📖 I share content about
 
 - Quality Engineering
-- Estratégia de Testes
-- Automação de Testes
-- Playwright e TypeScript
+- Test Strategy
+- Test Automation
+- Playwright and TypeScript
 - Cypress
 - Selenium WebDriver
 - CodeceptJS
-- APIs e SQL
-- Engenharia de Software
-- IA aplicada à Qualidade
-- Testes de Performance
+- APIs and SQL
+- Software Engineering
+- AI applied to Quality
+- Performance Testing
 - CI/CD
 - Shift Left
-- Qualidade de Software
+- Software Quality
 
 ---
 
-## 🤝 Vamos nos conectar
+## 🤝 Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/ricardoalvesmelo/
 - GitHub: https://github.com/ricardho
